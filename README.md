@@ -49,6 +49,11 @@ You can buy TOTEM kits and finished builds on [keeb.supply](https://keeb.supply/
 
 ***
 
+## Videos
+
+https://www.youtube.com/watch?v=YwsutNf1WRA&ab_channel=EIGA
+https://www.youtube.com/watch?v=rvM2BthjEI4&ab_channel=Wolfgang%27sChannel
+
 ## PHOTOS
 
 This is the TOTEM in a black resin case
