@@ -67,3 +67,12 @@ _When choosing a resin for your keyboard case, toughness and resistance to impac
 * *9600 Resin*: A solid all-rounder. While it might not match the top-tier impact resistance of the resins above, it's still described as "durable" and is a good choice for a stable and reliable case.
 * *8000 Resin*: If you're looking for a transparent or translucent case, this is your best bet. Just be aware that it might not be as impact-resistant as the "tougher" opaque resins.
 * *X Resin*: Its unpredictable color and properties make it unsuitable for a finished product like a keyboard case.
+
+For me, this concludes to the following:
+* *CBY* resin is great, but only ships in *Faint Yellow* (sanding only)
+* *8228* resin only ships in *light green*, sanding only
+* *Ledo 6060* ships in natural white with glossy and matte spray painting
+* *Imagine Black* is the best option for black resin
+* *9600* resin is the budget version of matte white with spray painting available
+* *8001* resin is for transparent (with surface finish, double price) / translucent (no surface finish) version
+* *X resin* is for fun :-D
