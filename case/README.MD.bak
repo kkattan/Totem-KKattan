@@ -19,6 +19,7 @@ If you're sure you only will use the wired version you can also use the case wit
 Tenting is possible using the provided bottom plates found in the tenting folder. These bottom plates are compatible with their corresponding non-tenting top part. The tenting bottom plates are compatible with the same screws as the non-tenting bottom plates.
 
 
+
 ![TOTEM tenting height comparison](/docs/images/TOTEM_case_height_comparison.png)
 > **Note**
 >Using these tenting bottom plates (left) the keyboard height will be increased by the thickness of the tenting feet (around 4mm). Compared to the default bottom plate (right).
@@ -45,11 +46,3 @@ https://www.printables.com/model/840146-totem-redux
 TOTEM by GEIST but with a bit of Carbon flavor and embedded MagSafe (wireless only)
 
 https://www.printables.com/model/1115855-totem-cfrp/files
-
-## Totem Shift 
-
-Case for the TOTEM-SHIFT that supports swappable plates, larger battery and cleaner aesthetics.
-
-https://www.printables.com/model/1033457-totem-shift-wireless-ble-redux-split-splay-keyboar
-
-https://github.com/Endracion/TOTEM-SHIFT

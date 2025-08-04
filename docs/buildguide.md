@@ -26,21 +26,31 @@
 | switch socket          | 38 | Switch sockets for Kailh choc switches |
 
 
+### Soldering
+
+| Port name               | Count | Remarks |
+| :---------------------- | :---: | :------ |
+| Flux pen                | 1     | I found a [pen](https://www.amazon.de/dp/B00X3INMJC) a lot easier to handle than the usual syringe |
+
+
 ### 3DP CASE PARTS
 
-| Part name              | Count | Remarks | 
-| :--------------------- | :---: | :------ |
+| Port name               | Count | Remarks |
+| :---------------------- | :---: | :------ |
 | 3D printed case        | 02 | Find the case files [here](/case) |
-| 6mm M2 standoffs       | 08 | 6mm round standoffs for screwing the top and bottom of the case together |
-| 6mm M2 countersunk screws | 16 ||
+| 6mm M2 standoffs       | 08 | [6mm round standoffs](https://www.amazon.de/dp/B0BWXKJD65) for screwing the top and bottom of the case together; use metal for self-printed cases |
+| 6mm M2 countersunk screws | 16 | ["Senkkopfschrauben"](https://www.amazon.de/dp/B0D1N4D5ZR) in German |
 | 8.5mm rubber feet | 8 | they can also be smaller |
+| Diagonal cutter | 1 | Might come in handy to cut feet of reset button and TRRS - [cutter](https://www.amazon.de/dp/B0DZ2G6WXF) |
+| Metal file | 1 | A [tiny file](https://www.amazon.de/dp/B07H2YXY2R) case be useful for self-printed cases to remove superfluous material |
 
 ### TENTING CASE PARTS
-| Part name              | Count | Remarks | 
+| Part name              | Count | Remarks |
 | :--------------------- | :---: | :------ |
 | Additional 8.5mm rubber feet | 2 | Optional, they can also be smaller |
 | Tenting feet | 4 | Example source [here](https://aliexpress.com/item/1005005605228469.html) |
 | Anti-Slip adhesive sheet | 1 | Optional, example source [here](https://aliexpress.com/item/1005005377684110.html) |
+| Magnetic ring | 2 | I like to have a [ring](https://www.amazon.de/dp/B0DXKWHDD7) on the back to mount the keyboard on top of a camera stand
 
 
 ## INTRODUCTION
