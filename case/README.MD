@@ -76,3 +76,8 @@ For me, this concludes to the following:
 * **9600** resin is the budget version of matte white with spray painting available | sky blue matte spray painting at 14$
 * **8001** resin is for transparent (with surface finish, double price) / translucent (no surface finish) version | 21$
 * **X resin** is for fun :-D | 3.38$ when I checked
+
+
+## Accessories
+
+* Travel Case: https://www.printables.com/model/1127110-travel-case-for-wireless-totem-split-keyboard
