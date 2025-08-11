@@ -78,6 +78,10 @@ For me, this concludes to the following:
 * **X resin** is for fun :-D | 3.38$ when I checked
 
 
+## Key Caps
+
+* https://www.printables.com/model/1000549-mote-remixed-choc-low-profile-flat-keycaps-with-mo
+
 ## Accessories
 
 * Travel Case: https://www.printables.com/model/1127110-travel-case-for-wireless-totem-split-keyboard
