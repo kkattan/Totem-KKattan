@@ -22,6 +22,8 @@
 
 // set layers to 16
 #define DYNAMIC_KEYMAP_LAYER_COUNT 16
+// set macro count
+#define DYNAMIC_KEYMAP_MACRO_COUNT 32
 
 // Mouse definition
 #undef MOUSEKEY_DELAY
@@ -46,9 +48,10 @@
 // "other"
 #define COMBO_MUST_HOLD_MODS
 #define CAPS_WORD_TOGGLE_KEY
+#define CAPS_WORD_IDLE_TIMEOUT 3000  // 3 seconds.
+
 #define ONESHOT_TIMEOUT 500
 
-// #define CHORDAL_HOLD
 // #define FLOW_TAP_TERM 150
 
 //#define SPLIT_USB_TIMEOUT 2000
