@@ -21,9 +21,11 @@
 #undef LOCKING_RESYNC_ENABLE
 
 // set layers to 16
-#define DYNAMIC_KEYMAP_LAYER_COUNT 16
+#define DYNAMIC_KEYMAP_LAYER_COUNT 8
 // set macro count
-#define DYNAMIC_KEYMAP_MACRO_COUNT 32
+#define DYNAMIC_KEYMAP_MACRO_COUNT 16
+// set combo count
+#define VIAL_COMBO_ENTRIES 16
 
 // Mouse definition
 #undef MOUSEKEY_DELAY
@@ -47,6 +49,9 @@
 
 // "other"
 #define COMBO_MUST_HOLD_MODS
+#define COMBO_STRICT_TIMER
+#define COMBO_ALLOW_ACTION_KEYS
+#define SPLIT_COMBO_ENABLE
 #define CAPS_WORD_TOGGLE_KEY
 #define CAPS_WORD_IDLE_TIMEOUT 3000  // 3 seconds.
 
